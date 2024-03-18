@@ -1,10 +1,14 @@
 import React from "react";
-
-const Cs = () => {
+import Card from "../components/Card";
+const Cs = ({ datas }) => {
   return (
     <div className="container ">
       <div className="row gap-3">
-        <Card />
+        {datas
+          .filter((element) => element.category === "cs")
+          .map((data) => {
+            return <Card data={data} key={data.id} />;
+          })}
       </div>
     </div>
   );

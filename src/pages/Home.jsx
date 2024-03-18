@@ -1,10 +1,13 @@
 import React from "react";
+import Card from "../components/Card";
 
-const Home = () => {
+const Home = ({ datas }) => {
   return (
     <div className="container ">
       <div className="row gap-3">
-        <Card />
+        {datas.map((data) => {
+          return <Card data={data} key={data.id} />;
+        })}
       </div>
     </div>
   );

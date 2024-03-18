@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav className="navbar  navbar-expand-lg justify-content-center border-bottom mb-4">
+    <nav className="navbar  navbar-expand-lg justify-content-center border-bottom mb-5">
       <ul className="navbar-nav">
         <li className="nav-item active">
           <NavLink className="nav-link" activeClassName="active" to="/">

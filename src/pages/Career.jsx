@@ -1,12 +1,13 @@
-import React from "react";
-import Card from "../components/Card";
-
-const Career = () => {
+const Career = ({ datas }) => {
   return (
-    <div className="container ">
-      <div className="row gap-3">
-        <Card />
-      </div>
+    <div className="container">
+      <h2>How We Hire</h2>
+
+      <p className="sub-text">
+        Putting people first begins the moment we meet. Tell us about your
+        skills and aspirations. Explore job opportunities that speak to your
+        journey.
+      </p>
     </div>
   );
 };
