@@ -5,6 +5,7 @@ const Home = ({ datas }) => {
   return (
     <div className="container ">
       <div className="row gap-3">
+        {/* created map to load all cards */}
         {datas.map((data) => {
           return <Card data={data} key={data.id} />;
         })}

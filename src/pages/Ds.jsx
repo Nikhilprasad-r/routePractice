@@ -5,6 +5,7 @@ const Ds = ({ datas }) => {
   return (
     <div className="container">
       <div className="row gap-3">
+        {/* Filtered and mapped the cards acoording to their category */}
         {datas
           .filter((element) => element.category === "ds")
           .map((data) => {

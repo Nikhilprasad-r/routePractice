@@ -7,7 +7,7 @@ import Fsd from "./pages/Fsd";
 import Ds from "./pages/Ds";
 import Cs from "./pages/Cs";
 import Career from "./pages/Career";
-
+// data created for showing cards
 const datas = [
   {
     id: 1,
