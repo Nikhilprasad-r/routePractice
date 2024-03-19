@@ -11,7 +11,7 @@ import Career from "./pages/Career";
 const datas = [
   {
     id: 1,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs-768x432.png",
+    img: "https://picsum.photos/200/300",
     title: "How to Render an Array of Objects in React? [in 3 easy steps]",
     author: "Tarun Singh",
     date: "22 Nov, 2023",
@@ -21,7 +21,7 @@ const datas = [
   },
   {
     id: 2,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html-1200x801.jpg",
+    img: "https://picsum.photos/200/300",
     title: "Best Full-Stack Development Project Ideas in 2024 ",
     author: "Isha Sharma",
     date: "13 Dec, 2023",
@@ -31,7 +31,7 @@ const datas = [
   },
   {
     id: 3,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-768x402.webp",
+    img: "https://picsum.photos/200/300",
     title: "How Long Would It Take to Be a Full Stack Developer?",
     author: "Meghana",
     date: "Oct 20, 2023",
@@ -41,7 +41,7 @@ const datas = [
   },
   {
     id: 4,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png",
+    img: "https://picsum.photos/200/300",
     title:
       "Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024 [UPDATED]",
     author: "Tarun Singh",
@@ -52,7 +52,7 @@ const datas = [
   },
   {
     id: 5,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/Real-World-Data-Science-Examples-768x402.webp",
+    img: "https://picsum.photos/200/300",
     title: "12 Real-World Data Science Examples: Power Of Data Science",
     author: "Lukesh S",
     date: "Oct 21, 2023",
@@ -62,7 +62,7 @@ const datas = [
   },
   {
     id: 6,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-768x512.jpg",
+    img: "https://picsum.photos/200/300",
     title: "How to become a Data Scientist after Mechanical Engineering?",
     author: "prokash",
     date: "Oct 03, 2023",
@@ -72,7 +72,7 @@ const datas = [
   },
   {
     id: 7,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/Your-paragraph-text-1200x600.png",
+    img: "https://picsum.photos/200/300",
     title: "Data Science vs Data Analytics | Best Career Choice in 2024",
     author: "Lahari",
     date: "Mar 16, 2024",
@@ -82,7 +82,7 @@ const datas = [
   },
   {
     id: 8,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-1200x628.png",
+    img: "https://picsum.photos/200/300",
     title: "How Long Would It Take to Learn Data Science?",
     author: "Meghana",
     date: "22 Nov, 2023",
@@ -92,7 +92,7 @@ const datas = [
   },
   {
     id: 9,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1200x675.png",
+    img: "https://picsum.photos/200/300",
     title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
     author: "Tushar Vinocha",
     date: "Oct 04, 2023",
@@ -102,7 +102,7 @@ const datas = [
   },
   {
     id: 10,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity-768x480.webp",
+    img: "https://picsum.photos/200/300",
     title: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
     author: "Jaishree Tomar",
     date: "Dec 04, 2023",
@@ -112,7 +112,7 @@ const datas = [
   },
   {
     id: 11,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-1200x675.png",
+    img: "https://picsum.photos/200/300",
     title: "8 Different Types of Cybersecurity and Threats Involved",
     author: "Tarun Singh",
     date: "Sep 08, 2023",
@@ -122,7 +122,7 @@ const datas = [
   },
   {
     id: 12,
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1200x375.jpg",
+    img: "https://picsum.photos/200/300",
     title: "Top 7 Cyber Security Attacks in Real Life",
     author: "Admin",
     date: "Oct 05, 2023",
